@@ -1,0 +1,7 @@
+func main() {
+int valor1,valor2,valor3, resultado;
+valor1 = 10:
+valor2 = 20;
+valor 3 = 30;
+resultado = valor1 + valor2 + valor3;
+system.out.Println}
